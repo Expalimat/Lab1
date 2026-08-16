@@ -1,0 +1,14 @@
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  text-align: center;
+}
+.price {
+  font-weight: bold;
+  color: #1f7a3f;
+}
+.outOfStock {
+  border-color: #d64545;
+  opacity: 0.6;
+}
